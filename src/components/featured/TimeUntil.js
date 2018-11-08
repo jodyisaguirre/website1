@@ -39,7 +39,7 @@ class TimeUntil extends Component {
       <Slide left delay={1000}>
       <div className="countdown_wrapper">
         <div className="countdown_top">
-        Time until I see Victor again
+        Time until Victor naps again
         </div>
         <div className="countdown_bottom">
           <div className="countdown_item">
